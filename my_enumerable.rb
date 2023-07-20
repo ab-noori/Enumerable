@@ -1,13 +1,17 @@
 module MyEnumerable
-  def map
-    # Implementation of map method
+  def all?
+    each { |item| return false unless yield(item) }
+    true
+  end
+
+  def any?
+    each { |item| return true if yield(item) }
+    false
   end
 
   def filter
-    # Implementation of filter method
-  end
-
-  def reduce
-    # Implementation of reduce method
+    result = []
+    each { |item| result.push(item) if yield(item) }
+    result
   end
 end
