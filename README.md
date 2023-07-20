@@ -8,7 +8,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Schema Diagram](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -58,15 +57,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Decode morse codes]**
-- **[words decoding]**
-- **[Senteces decoding]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Schema Diagram <a name="live-demo"></a>
+- **[Creating module]**
+- **[Creating class]**
+- **[Including module to class]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +85,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/ab-noori/Marse-Code-Decoder.git
+  git clone https://github.com/ab-noori/Enumerable.git
 ```
 
 ### Install
@@ -101,7 +94,7 @@ Install this project with:
 
 ```sh
   cd my-folder
-  git clone https://github.com/ab-noori/Marse-Code-Decoder.git
+  git clone https://github.com/ab-noori/Enumerable.git
 ```
 
 ### Usage
@@ -110,7 +103,7 @@ To run the project, execute the following command:
 
 ```sh
   cd my-folder
-  git clone https://github.com/ab-noori/Marse-Code-Decoder.git
+  git clone https://github.com/ab-noori/Enumerable.git
 ```
 
 ### Run tests
@@ -153,8 +146,8 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Adding possibility ro decode numbers]**
-- [ ] **[Creating UI so users can decode Morse codes]**
+- [ ] **[Adding more methods to the module]**
+- [ ] **[Creating new modules]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +157,7 @@ You can deploy this project using:
 
   Contributions, issues, and feature requests are welcome!
 
-  Feel free to check the [issues page](https://github.com/ab-noori/Marse-Code-Decoder/issues).
+  Feel free to check the [issues page](https://github.com/ab-noori/Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
